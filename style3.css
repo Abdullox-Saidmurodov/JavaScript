@@ -1,0 +1,43 @@
+.box {
+  background-color: lightgreen;
+  height: 200px;
+  margin: auto;
+  margin-top: 100px;
+  /* border-radius: 50%; */
+
+  font-size: 70px;
+  color: #fff;
+}
+
+form {
+  height: 200px;
+  width: 300px;
+  background-color: aqua;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 100px;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+span {
+  background-color: green;
+  color: #fff;
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+}

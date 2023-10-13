@@ -1,0 +1,17 @@
+form {
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 200px;
+}
+
+button {
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 100px;
+}

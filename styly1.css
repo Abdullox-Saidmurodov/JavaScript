@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-box {
+    background-image: url(./landing_page.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.container {
+    margin: 0 100px;
+}
+
+.box0 {
+    display: grid;
+    grid-template-columns: 60% auto;
+}
+
+.box1 {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 40px;
+    color: white;
+}
+
+.box2 {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.box2 p {
+    display: inline-block;
+}
+
+.box2 p a {
+    text-decoration: none;
+    color: white;
+}
+
+.box2 button {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+.box2 button a {
+    text-decoration: none;
+    color: white;
+}
+
+.box4 {
+    color: white;
+}
+
+.box5 {
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.box6 {
+    margin: 30px 0;
+    font-size: 30px;
+}
+
+.btn1 {
+    margin-top: 30px;
+    font-size: 20px;
+    width: 90px;
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.btn2 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    width: 90px;
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}

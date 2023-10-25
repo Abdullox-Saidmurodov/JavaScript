@@ -1,0 +1,2 @@
+// ternary operation - uchlik operatori
+

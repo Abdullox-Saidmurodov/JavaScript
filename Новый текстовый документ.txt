@@ -1,0 +1,1 @@
+(@akhrorweb) Assalomu alaykum. Oyni olayotganda oktyabrda(9-oyda iteratsiya bo'yicha) xato bo'lmasligi uchun, <<< const month = (now.getMonth() + 1) < 10 ? "0" + (now.getMonth() + 1) : (now.getMonth() + 1); >>> shunday yozish kerak ekan.

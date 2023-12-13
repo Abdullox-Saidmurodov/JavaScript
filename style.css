@@ -1,0 +1,43 @@
+.container {
+    margin: 40px;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.container div {
+    border: 1px solid white;
+    height: 150px;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.q1 {
+    background-color: red;
+}
+.q2 {
+    background-color: green;
+}
+.q3 {
+    background-color: #1ff00c;
+}
+.q4 {
+    background-color: #a715a7;
+}
+.q5 {
+    background-color: #eb9898;
+}
+.q6 {
+    background-color: #3f0b32;
+}
+.q7 {
+    background-color: #7dc244;
+}
+.q8 {
+    background-color: #549191;
+}
+.q9 {
+    background-color: #8ffa04;
+}
